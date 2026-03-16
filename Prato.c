@@ -14,8 +14,8 @@ int main() {
 
 printf("\n0 total do Pedido : R$ %.2f", p1.preco+p2.preco);
    if(p1.preco > p2.preco){
-       printf ("Mais caro: %s",p1);
+       printf ("\nMais caro: %s",p1.nome);
    }else{
-       printf("Mais caro: %s",p2);
+       printf("\nMais caro: %s",p2.nome);
    }
    }
