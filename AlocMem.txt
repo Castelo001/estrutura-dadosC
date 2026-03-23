@@ -1,0 +1,6 @@
+Função, passagem por valor ou referencia : com * 
+ponteiro muda no endreço de memória é por referência;
+Diferença entre função e procedimento
+void mudar_valor(int x){
+    x = 100; 
+}
