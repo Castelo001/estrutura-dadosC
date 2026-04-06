@@ -1,0 +1,11 @@
+para listas encadeadas 
+LIFO pilha, ultimo a entrar é o primeiro a sair
+#include<stdio.h> #include<stdlib.h> -> Essencial para o malloc
+struct NO{
+    int *carga;
+    struct No*
+}
+int main(){
+    struct No *novoVagao;
+novoVagao=
+}

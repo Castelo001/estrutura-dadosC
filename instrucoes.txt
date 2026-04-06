@@ -1,0 +1,23 @@
+Sistema Bancário Simples
+Objetivo: Criar um programa que gerencie 
+uma conta bancária permitindo depósitos, 
+saques e consulta de saldo.
+Requisitos:
+1.	Defina uma estrutura chamada ContaBancaria usando typedef. Ela deve conter:
+o	Número da conta (inteiro).
+o	Nome do titular (string).
+o	Saldo (float ou double).
+2.	Implemente as seguintes funções:
+o	depositar: Adiciona um valor ao saldo.
+o	sacar: Subtrai um valor do saldo 
+(verificando se há fundos suficientes).
+o	exibirSaldo: Mostra os dados da conta e o saldo atual.
+Requisitos:
+1.	Defina uma estrutura chamada ContaBancaria usando typedef. Ela deve conter:
+o	Número da conta (inteiro).
+o	Nome do titular (string).d
+o	Saldo (float ou double).
+2.	Implemente as seguintes funções:
+o	depositar: Adiciona um valor ao saldo.
+o	sacar: Subtrai um valor do saldo (verificando se há fundos suficientes).
+o	exibirSaldo: Mostra os dados da conta 	
