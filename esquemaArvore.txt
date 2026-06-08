@@ -1,0 +1,5 @@
+ questão de pilhas 
+ de filas 
+ de arvore, como organizar o número na árvore para ficar balanceada.
+listas duplamente encadeadas 
+app.notion
